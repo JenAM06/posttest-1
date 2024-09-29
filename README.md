@@ -31,7 +31,7 @@ Page 2
    
    ![Screenshot 2024-09-30 060014](https://github.com/user-attachments/assets/3dd1dcab-c7cb-4929-a1f6-af40b6b9ebfd)
 
-   User akan diminta untuk input jam kerja dan tarif kerja per jam
+   User akan diminta untuk input total jam kerja dan tarif kerja per jam
      
    ![Screenshot 2024-09-30 060014](https://github.com/user-attachments/assets/c752c2e2-eb72-4b92-9064-3423e1ab16bb)
    ![Screenshot 2024-09-30 060338](https://github.com/user-attachments/assets/0494ca9c-0512-4665-8347-9724576df896)
@@ -52,7 +52,7 @@ Page 2
 
   2. Jika User bekerja tidak lebih dari 160 jam, maka hasil outputnya adalah total gajinya
 
-     ![Screenshot 2024-09-29 223608](https://github.com/user-attachments/assets/e94ab134-622f-404c-aa7a-931ab300ab9f)
+     ![Screenshot 2024-09-29 223738](https://github.com/user-attachments/assets/83a2c5c7-7388-4a85-9e76-6601686f175d)
 
 # Output untuk menghitung ulang
 
