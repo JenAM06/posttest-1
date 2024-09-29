@@ -58,16 +58,15 @@ Page 2
 
   Jika ingin menghitung ulang:
 
-  ![Screenshot 2024-09-29 223547](https://github.com/user-attachments/assets/66b70dc7-7f60-48f8-8956-a51e75273c24)
+  ![Screenshot 2024-09-30 061503](https://github.com/user-attachments/assets/846d5e1e-e07d-4e66-bff5-cf338f7c7371)
 
   Jika ingin keluar dari program
-
-  ![Screenshot 2024-09-30 060338](https://github.com/user-attachments/assets/c62d44f8-318b-41be-bbd5-aed129a5b91f)
+   
+   ![Screenshot 2024-09-29 223547](https://github.com/user-attachments/assets/973d6532-92da-4a06-babc-9eb3932533d7)
 
   Jika user menginput tidak sesuai dengan opsi (akan terus melakukan perulangan):
   
-  ![Screenshot 2024-09-30 061503](https://github.com/user-attachments/assets/8c16094e-fa15-45aa-8851-55859938132a)
+   ![Screenshot 2024-09-30 061526](https://github.com/user-attachments/assets/98c834eb-0361-472a-be21-7e4e80736bff)
 
-  
 
    
