@@ -37,7 +37,7 @@ Page 2
    ![Screenshot 2024-09-30 060014](https://github.com/user-attachments/assets/c752c2e2-eb72-4b92-9064-3423e1ab16bb)
    ![Screenshot 2024-09-30 060338](https://github.com/user-attachments/assets/0494ca9c-0512-4665-8347-9724576df896)
 
-   program akan menghitung total gaji dari hasl input user
+   program akan menghitung total gaji dari hasil input user
 
    ![Screenshot 2024-09-29 223738](https://github.com/user-attachments/assets/f1ea32cc-ff6c-4c73-a987-2b77fbdada9d)
 
