@@ -8,7 +8,7 @@ Page 1
 
 Page 2
 
-![Screenshot 2024-09-28 201559](https://github.com/user-attachments/assets/92d81de4-f71a-472f-b671-a6cc79e2b774)
+![Screenshot 2024-09-30 091815](https://github.com/user-attachments/assets/84c143b6-6020-4e3d-9512-973c848008b2)
 
 # Contoh Output Awal Sampai Akhir
 
