@@ -4,11 +4,12 @@ Jen Agresia Misti | 2409116007 | Sistem Informasi A
 # Flowchart
 Page 1
 
-![Screenshot 2024-09-28 201339](https://github.com/user-attachments/assets/ed4a2b67-47ae-446e-9c40-836cd3ced0aa)
+![Screenshot 2024-09-30 091815](https://github.com/user-attachments/assets/7883114a-d16b-4550-8c71-bb897dceb032)
 
 Page 2
 
-![Screenshot 2024-09-30 091815](https://github.com/user-attachments/assets/7883114a-d16b-4550-8c71-bb897dceb032)
+![Screenshot 2024-09-28 201559](https://github.com/user-attachments/assets/ce2cf437-991c-42c9-a4b3-50b647af7399)
+
 
 # Contoh Output Awal Sampai Akhir
 
